@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526873910952",
+    "project_id": "test-a4ca8",
+    "storage_bucket": "test-a4ca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526873910952:android:4113706955aa03ebd56c9d",
+        "android_client_info": {
+          "package_name": "com.example.masti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3KKSqU7wVv8uW8PI2K4em3rHsfHyAosI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
